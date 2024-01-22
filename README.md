@@ -4,7 +4,7 @@
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width=400 alt="Github dashboard gif" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiket-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="nachiket-cmd" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** **Flask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
